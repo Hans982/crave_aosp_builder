@@ -13,8 +13,6 @@ LOS 21:
   ignoreClientHostname: true
 LOS 22:
   ignoreClientHostname: true
-LOS 22.2
-  ignoreClientHostname: true
 PixelOS:
   ignoreClientHostname: true
 Rising OS:
